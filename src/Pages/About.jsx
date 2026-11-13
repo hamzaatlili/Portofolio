@@ -54,7 +54,7 @@ const ProfileImage = memo(() => (
       <div className="relative">
         <div className="w-72 h-72 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-cyan-400/20 shadow-[0_0_40px_rgba(6,182,212,0.2)] transition-all duration-700 group-hover:scale-105">
           <img
-            src="/public/Hamza.jpeg"
+            src="/Hamza.jpeg"
             alt="Hamza Tlili - Cybersecurity Engineer"
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
             loading="lazy"
